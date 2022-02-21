@@ -1,4 +1,6 @@
 body{background-color: black ;color: white;}
-article{background-color: rgb(44,43,43);}
+article{padding: 1.5px; border-bottom: 1px solid white;  background-color: rgb(44,43,43);}
 .resaltado{color: yellow;}
 #kansascity{text-align: center;font-size: 3rem;}
+.ilustracion{border: 4px solid white}
+#footer_blog{margin: 2rem;}
