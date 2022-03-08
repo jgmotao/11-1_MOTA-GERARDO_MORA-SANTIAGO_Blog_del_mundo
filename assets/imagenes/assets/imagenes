@@ -12,7 +12,7 @@
             <ul>
                 <!--Comienzan y terminan cada una de las referencias a los otros archivos-->
                 <li><a href="index.html" target="_blank">Principal</a></li>
-                <li><a href="tema1.html">Uso de la TecnolgÃ­a en el salÃ³n de clases</a></li>
+                <li><a href="tema1.html">Uso de la Tecnologia en el salÃ³n de clases</a></li>
                 <li><a href="tema2.html">Escuela de ProgramaciÃ³n en el Ãlamos</a></li>
                 <li><a href="tema4.html">La nube como principal espacio de almacenamiento</a></li>
             </ul>

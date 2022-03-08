@@ -1,0 +1,18 @@
+body{background-color: black ;color: white;}
+article{background-color: rgb(44,43,43);}
+.resaltado{color: yellow;}
+#ligamx{text-align: center;font-size: 3rem;}
+/* grid */
+section {
+    
+    /* despliégate como  grid */
+    display: grid;
+    /* Crea 12 columnas cada una de una fracción usando la función repeat*/
+    grid-template-columns: repeat(12, 1fr);
+    /* deja que las filas(renglones) ocupen el alto que necesitan */
+    grid-auto-rows: auto;
+    /* añade un espacio entre los elementos del grid de 3rem */
+    gap: 3rem;
+}
+
+/* Termina grid */
